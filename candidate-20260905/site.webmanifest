@@ -1,0 +1,22 @@
+{
+  "name": "Smarter Practice",
+  "short_name": "Smarter Practice",
+  "description": "A premium dental website plus the managed system that keeps improving it for independently owned dental practices.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3efe9",
+  "theme_color": "#f3efe9",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
