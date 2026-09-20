@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/assets/*",
+    "/og/*",
+    "/favicon.ico",
+    "/favicon.svg",
+    "/favicon-*.png",
+    "/apple-touch-icon.png",
+    "/icon-*.png",
+    "/site.webmanifest",
+    "/robots.txt",
+    "/sitemap.xml",
+    "/about",
+    "/pricing-plans/list",
+    "/pricing-plans",
+    "/pricing-plans/"
+  ]
+}
